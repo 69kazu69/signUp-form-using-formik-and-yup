@@ -87,4 +87,5 @@ input:focus{
 }
 #heading{
   color: rgba(185, 24, 24, 0.452);
+  text-shadow: 0 0  20px rgba(5, 3, 3, 0.63);
 }
